@@ -18,6 +18,10 @@ Price ↓    BUY orders placed below current price
 - When price drops → buys; when price rises → sells
 - Captures profit from sideways/volatile markets without predicting direction
 
+## Screenshot
+
+![Kash Trading Bot Dashboard](img.png)
+
 ## Features
 
 - **Spot trading only** — no leverage, no liquidation risk
